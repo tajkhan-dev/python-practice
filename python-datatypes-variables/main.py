@@ -14,5 +14,12 @@ name="Ahmed"
 # print(name.isspace())
 # print(name.islower())
 # print(name.isupper())
+#print(name.casefold())
 
-print(name.casefold())
+
+
+#*** Integer methods ***
+
+num=10
+
+print(float(num))
