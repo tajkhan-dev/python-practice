@@ -1,5 +1,5 @@
 name="Ahmed"
-
+#*** Strings Method ***
 # print(name.capitalize())
 # print(name.upper())
 # print(name.lower())
@@ -9,8 +9,10 @@ name="Ahmed"
 # print(name)
 
 # print(name.isalpha())
-print(name.isdigit())
+# print(name.isdigit())
 # print(name.isalnum())
 # print(name.isspace())
 # print(name.islower())
 # print(name.isupper())
+
+print(name.casefold())
